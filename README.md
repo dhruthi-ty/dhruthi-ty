@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hey, I'm Dhruthi<br>AI & Full-Stack Developer who loves building smart systems, clean UIs, and real-time experiences ⚡<br><br>🚀 What I Do<br> •AI/ML (RAG, LLMs, CV) 🤖 • Full-Stack (React, Node.js) 🧩 • Real-Time Apps (Socket.io) 🔁<br><br>🛠️ Tech I use<br> •React, Node.js, MongoDB, Express.js, Yolo, OpenCV, Streamlit<br><br>🌱 Currently Learning<br> •Currently building my own blog and experimenting with writing things I’m passionate about!<br><br>📚 Fun Fact<br>I’m a book lover 📖, a sucker for old rom-coms, and read murder mystery I swear I’ll solve before the last chapter.🕵️‍♂️🔍<br><br>🤝 Let’s Connect<br>Open to collaborations, internships, and conversations about cool ideas ✨
+#  About Me:
+👋 Hey, I'm Dhruthi<br>AI & Full-Stack Developer who loves building smart systems, clean UIs, and real-time experiences ⚡<br><br>🚀 What I Do<br> •AI/ML (RAG, LLMs, CV) 🤖 • Full-Stack (React, Node.js) 🧩 • Real-Time Apps (Socket.io) 🔁<br><br>🛠️ Tech I use<br> •React, Node.js, MongoDB, Express.js, Yolo, OpenCV, Streamlit<br><br>🌱 Currently Learning<br> •Currently building my own blog and experimenting with writing things I’m passionate about!<br><br>📚 Fun Fact<br>I’m a book lover 📖,<br><br>🤝 Let’s Connect<br>Open to collaborations, internships, and conversations about cool ideas ✨
 
 
 ## 🌐 Socials:
